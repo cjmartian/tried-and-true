@@ -1,2 +1,2 @@
 # tried-and-true
-Recipes
+Home of some recipes I've made and want to keep
